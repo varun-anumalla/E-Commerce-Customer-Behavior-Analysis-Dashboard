@@ -23,7 +23,7 @@ Includes 3 pages — **Sales Overview**, **Customer Insights**, and **Customer R
 
 ---
 
-🎥 **Project Walkthrough Video:** [Watch Here](your_video_link)
+🎥 **Project Walkthrough Video:** [Watch Here](https://youtu.be/8wRQAVQF44g?si=mHCCPdRjIvOoeeH9)
 
 ---
 
